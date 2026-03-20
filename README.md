@@ -1,9 +1,8 @@
-# mohitvirli.github.io
-Hello there! I'm Mohit Virli, frontend engineer by profession, a creative at heart.
+# Project01
 
-This the updated version of my personal website which is now in 3D. LFG!
+This is the updated version of my personal website which is now in 3D. LFG!
 
-Checkout the live version at [mohitvirli.github.io](https://mohitvirli.github.io/)
+Checkout the live version at [nitesh000009.github.io/Project01](https://nitesh000009.github.io/Project01/)
 
 ## Tech Stack
 
