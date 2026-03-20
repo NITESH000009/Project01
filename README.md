@@ -2,7 +2,7 @@
 
 This is the updated version of my personal website which is now in 3D. LFG!
 
-Checkout the live version at [nitesh000009.github.io/Project01](https://nitesh000009.github.io/Project01/)
+Checkout the live version at [nitesh000009.github.io/Project01]https://niteshani01.vercel.app/
 
 ## Tech Stack
 
